@@ -1,0 +1,8 @@
+[GdmGreeterTheme]
+Author=sidux art team
+Copyright=GPL
+Description="sidux 2009-01 uranos" 
+Encoding=UTF-8
+Greeter=uranos.xml
+Name=sidux-uranos
+Screenshot=screenshot.jpg
