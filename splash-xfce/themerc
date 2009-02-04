@@ -1,6 +1,6 @@
 # $Id: themerc 12849 2008-05-20 17:57:33Z cleary $
 #
-# Default sidux 2009-01 uranos theme 
+# Default sidux 2009-01 ouranos theme 
 # for xfce4 based on the balou engine
 #
 # Copyright (c) 2009 Bernard Gray <bernard.gray@gmail.com>
@@ -29,7 +29,7 @@
 # Info section
 #
 [Info]
-Name=sidux 2009-01 (uranos)
+Name=sidux 2009-01 (ouranos)
 Description=default xfce theme for sidux 2009-01 release
 
 #
