@@ -1,9 +1,5 @@
-sidux-art-ouranos (0.3) UNRELEASED; urgency=low
+sidux-art-ouranos (0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * initial kde-splash theme
 
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 05 Feb 2009 22:53:29 +1100
