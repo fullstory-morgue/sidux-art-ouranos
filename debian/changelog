@@ -8,8 +8,10 @@ sidux-art-ouranos (0.4) UNRELEASED; urgency=low
   * initial gdm theme
   * initial kdm theme
   * modify wait timer on ksplash login
+  * use kde logo on ksplash progress bar
+  * update copyright to acknowledge kde logo use
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 07 Feb 2009 00:49:33 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 07 Feb 2009 01:31:27 +1100
 
 sidux-art-ouranos (0.3) unstable; urgency=low
 
