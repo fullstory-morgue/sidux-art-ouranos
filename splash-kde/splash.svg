@@ -20,22 +20,6 @@
    enable-background="new">
   <defs
      id="defs4">
-    <pattern
-       inkscape:stockid="Stripes 1:1 white"
-       id="Strips1_1white"
-       patternTransform="translate(0,0) scale(10,10)"
-       height="1"
-       width="2"
-       patternUnits="userSpaceOnUse"
-       inkscape:collect="always">
-      <rect
-         id="rect6358"
-         height="2"
-         width="1"
-         y="-0.5"
-         x="0"
-         style="fill:white;stroke:none" />
-    </pattern>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 197.5 : 1"
@@ -1963,18 +1947,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <filter
-       inkscape:collect="always"
-       id="filter5516"
-       x="-0.010716831"
-       width="1.0214337"
-       y="-0.14605637"
-       height="1.2921127">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.5588192"
-         id="feGaussianBlur5518" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1986,11 +1958,11 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63797468"
-     inkscape:cx="-118.97817"
-     inkscape:cy="197.50001"
+     inkscape:zoom="1.8044649"
+     inkscape:cx="209.29129"
+     inkscape:cy="133.64149"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2058,6 +2030,14 @@
        orientation="0,1"
        position="-18.996094,147"
        id="guide17135" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="4.4334473,97.535841"
+       id="guide3281" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-56.526453,33.250855"
+       id="guide3283" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -2166,38 +2146,33 @@
        id="path3948"
        d="m 5.9375,247.59375 0,29.25 0,29.21875 194.1875,0 194.15625,0 0,-29.21875 0,-29.25 -194.15625,0 z m 15.0625,6.25 358.25,0 c 4.71803,0 8.5,3.78197 8.5,8.5 l 0,28.96875 c 0,4.71803 -3.78197,8.53125 -8.5,8.53125 l -358.25,0 c -4.718028,0 -8.53125,-3.81322 -8.53125,-8.53125 l 0,-28.96875 c 0,-4.71801 3.813222,-8.5 8.53125,-8.5 z"
        style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3960)" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.99683952px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.81999966;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="297.45096"
+       y="297.46417"
+       id="text17910"><tspan
+         sodipodi:role="line"
+         id="tspan17912"
+         x="297.45096"
+         y="297.46417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:5.04019976;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">...</tspan></text>
     <g
-       transform="translate(17.999984,92.83264)"
-       style="display:inline;opacity:1"
-       id="g7100-2">
-      <g
-         id="g66182-0"
-         style="opacity:0.81999966;display:inline">
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#ffffff;stroke-width:2.84267402;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           id="path17902-6"
-           sodipodi:cx="-241.15201"
-           sodipodi:cy="186.16504"
-           sodipodi:rx="31.985884"
-           sodipodi:ry="31.985884"
-           d="m -209.16612,186.16504 c 0,17.65621 -14.32968,31.98588 -31.98589,31.98588 -17.65621,0 -31.98588,-14.32967 -31.98588,-31.98588 0,-17.65621 14.32967,-31.98588 31.98588,-31.98588 17.65621,0 31.98589,14.32967 31.98589,31.98588 z"
-           transform="matrix(0.70356296,0,0,0.70356296,477.89142,53.684453)" />
-        <text
-           xml:space="preserve"
-           style="font-size:28.99683952px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-           x="329.45099"
-           y="208.21283"
-           id="text17910"><tspan
-             sodipodi:role="line"
-             id="tspan17912"
-             x="329.45099"
-             y="208.21283"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:5.04019976;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">...</tspan></text>
-      </g>
+       id="g3266"
+       transform="matrix(0.89718488,0,0,0.89718488,73.540952,28.530785)">
+      <path
+         transform="matrix(0.70356296,0,0,0.70356296,495.8914,146.51709)"
+         d="m -209.16612,186.16504 c 0,17.65621 -14.32968,31.98588 -31.98589,31.98588 -17.65621,0 -31.98588,-14.32967 -31.98588,-31.98588 0,-17.65621 14.32967,-31.98588 31.98588,-31.98588 17.65621,0 31.98589,14.32967 31.98589,31.98588 z"
+         sodipodi:ry="31.985884"
+         sodipodi:rx="31.985884"
+         sodipodi:cy="186.16504"
+         sodipodi:cx="-241.15201"
+         id="path17902-6"
+         style="opacity:0.81999966;fill:none;stroke:#ffffff;stroke-width:2.84267402;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
       <g
          style="fill:none;stroke:#ffffff;stroke-opacity:1;display:inline"
-         transform="matrix(0.864817,0,0,0.864817,44.70907,28.005513)"
+         transform="matrix(0.864817,0,0,0.864817,62.709054,120.83815)"
          id="g17939-1">
         <path
            sodipodi:nodetypes="ccc"
@@ -2233,46 +2208,6 @@
        id="path3995"
        transform="matrix(0.9989721,0,0,1.0511219,0.2056985,50.250931)"
        clip-path="url(#clipPath3964)" />
-    <g
-       id="g4236"
-       style="display:inline;opacity:0.79646017999999985"
-       transform="translate(17.999984,155.78673)">
-      <g
-         style="opacity:0.81999966000000002;display:inline"
-         id="g4238">
-        <path
-           transform="matrix(0.70356296,0,0,0.70356296,477.89142,53.684453)"
-           d="m -209.16612,186.16504 c 0,17.65621 -14.32968,31.98588 -31.98589,31.98588 -17.65621,0 -31.98588,-14.32967 -31.98588,-31.98588 0,-17.65621 14.32967,-31.98588 31.98588,-31.98588 17.65621,0 31.98589,14.32967 31.98589,31.98588 z"
-           sodipodi:ry="31.985884"
-           sodipodi:rx="31.985884"
-           sodipodi:cy="186.16504"
-           sodipodi:cx="-241.15201"
-           id="path4240"
-           style="fill:none;stroke:#ffffff;stroke-width:2.84267402000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           sodipodi:type="arc" />
-        <text
-           id="text4242"
-           y="208.21283"
-           x="329.45099"
-           style="font-size:28.99683952000000176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:5.04019976000000014;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-             y="208.21283"
-             x="329.45099"
-             id="tspan4244"
-             sodipodi:role="line">...</tspan></text>
-      </g>
-      <g
-         id="g4246"
-         transform="matrix(0.864817,0,0,0.864817,44.70907,28.005513)"
-         style="fill:none;stroke:#ffffff;stroke-opacity:1;display:inline">
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:2.31262802999999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 305.14637,160.05797 0,21.38 -14.88703,0"
-           id="path4248"
-           sodipodi:nodetypes="ccc" />
-      </g>
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"

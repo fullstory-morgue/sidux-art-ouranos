@@ -7,8 +7,9 @@ sidux-art-ouranos (0.4) UNRELEASED; urgency=low
   * initial xfce splash theme
   * initial gdm theme
   * initial kdm theme
+  * modify wait timer on ksplash login
 
- -- Bernard Gray <bernard.gray@gmail.com>  Fri, 06 Feb 2009 23:39:34 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 07 Feb 2009 00:49:33 +1100
 
 sidux-art-ouranos (0.3) unstable; urgency=low
 
