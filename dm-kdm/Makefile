@@ -17,7 +17,7 @@ gobutton.png:
 		--export-png="$@" gobutton.svg
 
 sidux-logo.png:
-	inkscape --without-gui --export-width=600 \
+	inkscape --without-gui --export-width=1000 \
 		--export-png="$@" sidux-logo.svg
 	
 
