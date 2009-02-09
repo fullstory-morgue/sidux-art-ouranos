@@ -1,9 +1,5 @@
-sidux-art-ouranos (0.5) UNRELEASED; urgency=low
+sidux-art-ouranos (0.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
    * add preview for ksplash
    * modify logo position + size on dm-* 
 
