@@ -1,9 +1,5 @@
-sidux-art-ouranos (0.6) UNRELEASED; urgency=low
+sidux-art-ouranos (0.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * modify logo position for *dm themes
 
  -- Bernard Gray <bernard.gray@gmail.com>  Tue, 10 Feb 2009 20:51:28 +1100
