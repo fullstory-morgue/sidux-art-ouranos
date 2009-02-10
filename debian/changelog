@@ -1,8 +1,12 @@
 sidux-art-ouranos (0.6) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 09 Feb 2009 12:08:35 +0100
+  [ Bernard Gray ]
+  * modify logo position for *dm themes
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 10 Feb 2009 20:51:28 +1100
 
 sidux-art-ouranos (0.5) unstable; urgency=low
 

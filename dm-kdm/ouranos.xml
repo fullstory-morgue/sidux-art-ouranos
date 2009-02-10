@@ -10,7 +10,7 @@
 
 	<item type="pixmap">
 		<normal file="sidux-logo.png" />
-		<pos x="65%" y="50%" anchor="c" />
+		<pos x="59%" y="50%" anchor="c" />
 	</item>
 
 	<!-- Login Area -->
