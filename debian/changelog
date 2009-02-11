@@ -6,8 +6,9 @@ sidux-art-ouranos (0.7) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * add gdm preview screenie
   * add kdm preview screenie
+  * crop out vbox menus from *dm screenshots
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 11 Feb 2009 15:29:39 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 11 Feb 2009 15:34:03 +1100
 
 sidux-art-ouranos (0.6) unstable; urgency=low
 
