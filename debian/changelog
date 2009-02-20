@@ -1,3 +1,9 @@
+sidux-art-ouranos (0.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:43:40 +0100
+
 sidux-art-ouranos (0.8) unstable; urgency=low
 
   * fix desktop-entry-contains-encoding-key.
