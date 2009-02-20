@@ -2,7 +2,6 @@
 Author=sidux art team
 Copyright=GPL
 Description="sidux 2009-01 ouranos" 
-Encoding=UTF-8
 Greeter=ouranos.xml
 Name=sidux-ouranos
 Screenshot=screenshot.jpg
