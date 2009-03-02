@@ -1,8 +1,13 @@
 sidux-art-ouranos (0.9) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:43:40 +0100
+  [ Bernard Gray ]
+  * move wallpaper logo slightly to resolve artifacting as reported by absolut at:
+    http://sidux.com/index.php?name=PNphpBB2&file=viewtopic&p=111739#111739
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 02 Mar 2009 22:08:49 +1100
 
 sidux-art-ouranos (0.8) unstable; urgency=low
 
