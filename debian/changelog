@@ -1,3 +1,9 @@
+sidux-art-ouranos (0.10) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 02 Mar 2009 12:42:37 +0100
+
 sidux-art-ouranos (0.9) unstable; urgency=medium
 
   * move wallpaper logo slightly to resolve artifacting as reported by absolut at:
