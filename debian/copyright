@@ -5,9 +5,14 @@ The original source can always be found at:
         http://developer.berlios.de/projects/fullstory
 
 Copyright:
-    "big 'tache" wallpaper:
+    "big 'tache" wallpaper and associated *dm/*splash themes:
           Copyright © 2009 by
           Bernard Gray <bernard.gray@gmail.com>
+          License: GPL2 or later
+    
+    theme-kde/sidux-ouranos-il_silver.kcsrc
+          Invisible kdisplay color schemes
+          Copyright © 2008  by knithx (knithx@gmail.com)
           License: GPL2 or later
 
     KDE Logo in splash-kde/splash.svg
