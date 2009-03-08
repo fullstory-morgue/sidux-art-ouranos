@@ -1,9 +1,5 @@
-sidux-art-ouranos (0.10) UNRELEASED; urgency=low
+sidux-art-ouranos (0.10) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   *  update copyright to cover themes and re-add knithx colour theme
 
  -- Bernard Gray <bernard.gray@gmail.com>  Fri, 06 Mar 2009 09:56:55 +1100
