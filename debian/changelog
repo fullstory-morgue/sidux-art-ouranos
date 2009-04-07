@@ -1,8 +1,8 @@
-sidux-art-ouranos (0.12) UNRELEASED; urgency=low
+sidux-art-ouranos (0.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * temporarily drop kde3 themes, until they can be adapted.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Apr 2009 21:35:05 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:10:29 +0200
 
 sidux-art-ouranos (0.11) unstable; urgency=low
 
