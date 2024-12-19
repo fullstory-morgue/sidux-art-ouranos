@@ -2,6 +2,7 @@ sidux-art-ouranos (0.13) ORPHANED; urgency=low
 
   * NOT RELEASED YET
   * ORPHAN PACKAGE, moved to sidux-art-legacy.
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Apr 2009 14:01:26 +0200
 
